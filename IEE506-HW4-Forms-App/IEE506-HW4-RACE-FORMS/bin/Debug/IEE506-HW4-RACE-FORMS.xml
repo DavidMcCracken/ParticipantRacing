@@ -1,0 +1,356 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IEE506-HW4-RACE-FORMS
+</name>
+</assembly>
+<members>
+<member name="T:IEE506_HW4_RACE_FORMS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:IEE506_HW4_RACE_FORMS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:IEE506_HW4_RACE_FORMS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:IEE506_HW4_RACE_FORMS.My.Resources.Resources.database">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblParticipantDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblRaceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblRunDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query1_ByEliteTimeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query1_ShowEliteTimesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query2__GroupByPRTime_Max1000DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query3_FinalResultsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query4_average_running_times_by_age_and_genderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query5_AverageTopOnePercentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query6_NamesAndAgesOfTenYoungestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.TESTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.PromptForNameQueryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.PromptForDateShowFinishOrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblLoginInformationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblParticipantRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblRaceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblRunRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query1_ByEliteTimeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query1_ShowEliteTimesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query2__GroupByPRTime_Max1000Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query3_FinalResultsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query4_average_running_times_by_age_and_genderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query5_AverageTopOnePercentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query6_NamesAndAgesOfTenYoungestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.TESTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.PromptForNameQueryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.PromptForDateShowFinishOrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblLoginInformationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblParticipantRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblRaceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblRunRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query1_ByEliteTimeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query1_ShowEliteTimesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query2__GroupByPRTime_Max1000RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query3_FinalResultsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query4_average_running_times_by_age_and_genderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query5_AverageTopOnePercentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet._Query6_NamesAndAgesOfTenYoungestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.TESTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.PromptForNameQueryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.PromptForDateShowFinishOrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet.tblLoginInformationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.tblParticipantTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.tblRaceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.tblRunTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.Query1_ByEliteTimeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.Query1_ShowEliteTimesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.Query2__GroupByPRTime_Max1000TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.Query3_FinalResultsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.Query4_average_running_times_by_age_and_genderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.Query5_AverageTopOnePercentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.Query6_NamesAndAgesOfTenYoungestTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.TESTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.PromptForNameQueryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.PromptForDateShowFinishOrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.tblLoginInformationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.TableAdapterManager.UpdateAll(IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:IEE506_HW4_RACE_FORMS._HW3_PROJ_13_BOULDER_2003_versionDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
